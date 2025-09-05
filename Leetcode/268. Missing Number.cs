@@ -8,7 +8,7 @@ public class Solution
 
             sumnums = sumnums + nums[i];
         }
-        for (int i = 0; i <= n; i++)
+        for (int i = 0; i <= n; i++)// sum=n*(n+1)/2; isko v use kr skte h bina loop k
         {
 
             sum = sum + i;
